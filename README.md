@@ -95,7 +95,7 @@ git clone https://github.com/jeong5758/Linux-System-Maintenance.git
 ### 2.  Enter the Directory
 
 ```bash
-cd linux-system-maintenance
+cd Linux-System-Maintenance
 ```
 
 ### 3. Make the Script Executable
